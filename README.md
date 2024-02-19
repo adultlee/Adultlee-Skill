@@ -5,14 +5,14 @@
 1. 저는 React 중심의 CSR 개발에 익숙하며 번들 경량화, 렌더링 최적화 등 기본적인 웹 성능 최적화 경험이 있습니다.
 2. Unity 기반 앱에서  웹뷰 환경의 서비스를 개발한 경험이 있습니다. 특히나 iOS 환경에서의 viewport 차이에서 발생하는 문제를 해결한 경험이 있습니다.
 
-아래는 제가 (주) 마로마브에서 인턴(파트타임) 으로 근무하면서 겪고 해결한 업무들에 대해서 나열해 보았습니다.
+아래는 제가 스타트업(Edu-Tech)에서 인턴(파트타임)으로 근무하면서 겪고 해결한 업무들에 대해서 나열해 보았습니다.
 
-## TryMake 
+## TryMake 프로젝트 중 문제 해결 과정
 > TryMake는  Next.js 기반 웹뷰 프로젝트 입니다. 
 
 ### Trouble Shooting - 초기 렌더링 최적화 문제
 
-TryMake 내부의 Editor는 Scratch 라이브러리 기반으로 동작하여, 초기 렌더링 속도가 지나치게 느린 문제가 존재했습니다. 이는 유저의 이탈률을 높이는 지표로서 나타났습니다.
+TryMake 내부의 Editor는 Scratch 라이브러리 기반으로 동작하여, 초기 렌더링 속도가 지나치게 느린 문제가 존재했습니다.
 <div>
 <img width="484" alt="image" src="https://github.com/adultlee/Adultlee-Skill/assets/77886826/2c1d574e-c4c6-4908-a3a7-9a490a4eaeab">
 <img width="446" alt="image" src="https://github.com/adultlee/Adultlee-Skill/assets/77886826/eabce43c-bf03-410f-a197-ac37a36adc59">
@@ -135,7 +135,7 @@ TryMake 서비스는 일반적으로 앱에서 사용되는 세로방향 서비�
 ![KakaoTalk_Video_2022-11-09-21-36-10-ezgif com-video-to-gif-converter](https://github.com/adultlee/Adultlee-Skill/assets/77886826/e4705287-c20d-4ad2-8d3b-e290481595f1)
 
 
-## 기술면접들에 대한 답변  
+# 기술면접들에 대한 답변  
 <img width="500" alt="image" src="https://github.com/adultlee/Adultlee-Skill/assets/77886826/90db431a-6426-4aaa-b133-ea782d7dd2f3">
 
 <b>[곰터뷰](https://www.gomterview.com/)</b> 를 이용해서 기본 면접 질문들에 대한 면접 영상을 확인하실 수 있습니다.
@@ -147,5 +147,9 @@ TryMake 서비스는 일반적으로 앱에서 사용되는 세로방향 서비�
 - [공용 컴포넌트를 개발할때 주의할 점에 대해서 설명해주세요](https://www.gomterview.com/interview/159)
 
 
+# 알고리즘 능력
+> 프로그래머스에서 주관하는 알고리즘 테스트 정기시험 PCCP 에서 Lv3 취득
+
+<img width="400" alt="image" src="https://github.com/adultlee/Adultlee-Skill/assets/77886826/967748f8-bed3-4a67-ac62-aa5a68c3d62e">
 
 
